@@ -45,6 +45,9 @@ pacman_game/
 -Nyawa habis (kalah)
 
 ##📸 Tampilan Game
+
+
+
 ![image](https://github.com/user-attachments/assets/d15401cb-4945-48b4-834f-084963ae6c7f)
 
 
