@@ -20,7 +20,7 @@ pacman_game/
 ├── maze.py
 ├── README.md
 
-🕹️ Kontrol
+## 🕹️ Kontrol
 -Panah atas (↑) : Bergerak ke atas
 
 -Panah bawah (↓) : Bergerak ke bawah
@@ -29,7 +29,7 @@ pacman_game/
 
 -Panah kanan (→) : Bergerak ke kanan
 
-##🧠 Fitur Utama
+## 🧠 Fitur Utama
 -Ukuran maze disesuaikan otomatis dengan ukuran window
 
 -Maze acak dibuat setiap game dimulai
@@ -44,7 +44,7 @@ pacman_game/
 
 -Nyawa habis (kalah)
 
-##📸 Tampilan Game
+## 📸 Tampilan Game
 
 
 
